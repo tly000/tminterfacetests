@@ -1,0 +1,9 @@
+numpy
+torch
+tminterface
+pywin32
+opencv-python
+torchvision
+decord
+pygbx
+gym
